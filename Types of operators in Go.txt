@@ -1,0 +1,35 @@
+TYPES OF OPERATORS 
+
+
+They are 3 types 
+
+1) Arthmetic expressions 
+
+2) Relational 
+
+3) Logical expressions 
+
+
+1) Arthmetic expression 
+
+   i) + Addition 
+  ii) - substarction
+ iii) * Multiplication 
+  iv) / Division 
+   v) % Modulous 
+
+
+2) Relational 
+
+  i) > Grater than 
+ ii) < lesser than 
+iii) => greater tha and equals 
+ iv) == equilence 
+ v) != not eqelience 
+
+
+3) Logical   
+
+  i) && and 
+ ii) || or 
+iii) negation 
